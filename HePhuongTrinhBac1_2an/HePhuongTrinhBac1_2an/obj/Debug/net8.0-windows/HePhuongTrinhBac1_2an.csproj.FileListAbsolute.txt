@@ -1,0 +1,17 @@
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\bin\Debug\net8.0-windows\HePhuongTrinhBac1_2an.exe
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\bin\Debug\net8.0-windows\HePhuongTrinhBac1_2an.deps.json
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\bin\Debug\net8.0-windows\HePhuongTrinhBac1_2an.runtimeconfig.json
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\bin\Debug\net8.0-windows\HePhuongTrinhBac1_2an.dll
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\bin\Debug\net8.0-windows\HePhuongTrinhBac1_2an.pdb
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.Form1.resources
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.Properties.Resources.resources
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.csproj.GenerateResource.cache
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.GeneratedMSBuildEditorConfig.editorconfig
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.AssemblyInfoInputs.cache
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.AssemblyInfo.cs
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.csproj.CoreCompileInputs.cache
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.dll
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\refint\HePhuongTrinhBac1_2an.dll
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.pdb
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\HePhuongTrinhBac1_2an.genruntimeconfig.cache
+E:\learnC#\Huong_Su_Kien_Window_Form\HePhuongTrinhBac1_2an\HePhuongTrinhBac1_2an\obj\Debug\net8.0-windows\ref\HePhuongTrinhBac1_2an.dll
