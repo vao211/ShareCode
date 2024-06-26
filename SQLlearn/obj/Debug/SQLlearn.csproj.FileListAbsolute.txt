@@ -1,0 +1,10 @@
+E:\SQLlearn(C#)\SQLlearn\bin\Debug\SQLlearn.exe.config
+E:\SQLlearn(C#)\SQLlearn\bin\Debug\SQLlearn.exe
+E:\SQLlearn(C#)\SQLlearn\bin\Debug\SQLlearn.pdb
+E:\SQLlearn(C#)\SQLlearn\obj\Debug\SQLlearn.csproj.AssemblyReference.cache
+E:\SQLlearn(C#)\SQLlearn\obj\Debug\SQLlearn.Form1.resources
+E:\SQLlearn(C#)\SQLlearn\obj\Debug\SQLlearn.Properties.Resources.resources
+E:\SQLlearn(C#)\SQLlearn\obj\Debug\SQLlearn.csproj.GenerateResource.cache
+E:\SQLlearn(C#)\SQLlearn\obj\Debug\SQLlearn.csproj.CoreCompileInputs.cache
+E:\SQLlearn(C#)\SQLlearn\obj\Debug\SQLlearn.exe
+E:\SQLlearn(C#)\SQLlearn\obj\Debug\SQLlearn.pdb
