@@ -1,0 +1,16 @@
+E:\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.exe.config
+E:\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.exe
+E:\ASM_STUDENT\StudentManagement\bin\Debug\StudentManagement.pdb
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.exe
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.pdb
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Login.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Main.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Student.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Enroll.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Class.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Course.resources
+E:\ASM_STUDENT\StudentManagement\obj\Debug\StudentManagement.Department.resources
